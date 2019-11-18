@@ -9,6 +9,7 @@ public class Demo {
     public void text(){
         int i = 0;
         i+=10;
+        i=i+50;
         System.out.println(i);
     }
 }
